@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<Stable>
+<helium>
+  <Filename>RR-O-v6.1.0-20180716-helium-Official.zip</Filename>
+<LatestBuildUrl
+  id="latestbuild"
+  title="Latest Build"
+  description="Download Latest Build">http://downloads.resurrectionremix.com/helium/RR-O-v6.1.0-20180716-helium-Official.zip</LatestBuildUrl>
+<BuildUrl
+  id="build"
+  title="Build"
+  description="Download Previous Builds">http://downloads.resurrectionremix.com/helium/</BuildUrl>
+<GAppsUrl
+  id="GApps"
+  title="Open GApps"
+  description="Download OpenGApps">http://opengapps.org/</GAppsUrl>
+<ChangelogUrl
+  id="changelog"
+  title="Changelog"
+  description="View Changelogs">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/oreo/CHANGELOG.mkdn</ChangelogUrl>
+<xdaurl
+  id="xda"
+  title="XDA"
+  description="View Xda Thread">https://forum.xda-developers.com/mi-max/development/rom-resurrection-remix-oreo-mi-max-t3748594</xdaurl>
+</helium>
+</Stable>
+</SlimOTA>
